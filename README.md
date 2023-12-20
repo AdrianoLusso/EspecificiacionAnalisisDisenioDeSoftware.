@@ -5,5 +5,5 @@ son relaciones a las 3 primeras actividades de un proceso de Software tipico (an
 
 Indice:
 
-1-Analisis de requerimientos para un sistema infromatico de becas, Materia: Ingenieria de Requerimientos, 2do año
-2-Especificacion y diseño orientado a objetos de una plataforma de streaming, Materia: Especificacion de Software, 3er año
+* Analisis de requerimientos para un sistema infromatico de becas, Materia: Ingenieria de Requerimientos, 2do año
+*  *Especificacion y diseño orientado a objetos de una plataforma de streaming, Materia: Especificacion de Software, 4er año
